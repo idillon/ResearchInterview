@@ -3,6 +3,7 @@ Since the files are raw Java files and do not import any special libraries, the 
 If using ubuntu, you can simply get a JDK by running sudo apt install gcj-4.9-jdk
 
 From here, you can download the zip file for the repository and then decompress it, or you can clone the repository into a desginated file
+
 To run:
 1. Open two VMs
 2. Obtain files from repository
